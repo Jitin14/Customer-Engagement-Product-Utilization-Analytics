@@ -82,4 +82,23 @@ This analysis demonstrates how even intermediate‑level Python analytics, when 
 
 ---
 
+## How to run
+
+- Clone this repository :
+
+- Install dependencies:
+
+pip install -r requirements.txt
+
+- Launch Jupyter Notebook:
+
+   jupyter notebook
+- Open the notebook located at:
+
+   ../Notebook/European Bank.ipynb
+  Run the cells sequentially to reproduce the analysis.
+
+Or, if you want to explore the interactive dashboard:
+
+streamlit run app.py
 
