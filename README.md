@@ -85,6 +85,7 @@ This analysis demonstrates how even intermediate‑level Python analytics, when 
 ## How to run
 
 - Clone this repository :
+  git clone https://github.com/Jitin14/Customer-Engagement-Product-Utilization-Analytics.git
 
 - Install dependencies:
 
